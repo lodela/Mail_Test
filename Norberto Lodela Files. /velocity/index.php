@@ -33,7 +33,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Explore the unexpected in Barcelona</title>
+	<title>Explore the unexpected in ${data.geo_name}</title>
 	<style type="text/css">
 		img { max-width: 100%; height: auto; }
 	</style>
